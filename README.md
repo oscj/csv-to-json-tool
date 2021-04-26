@@ -15,6 +15,7 @@ This is the general execution call for the script:
 python3 csv_to_json.py <input_csv_path> <output_directory_path>
 ```
 __<input_csv_path>__ - The path to the CSV file you want to convert to JSON
+<br>
 __<output_directory_path>__ - The directory you wish to save the resulting JSON file to
 
 Please make sure that theses command line arguments are in the same order as above.
