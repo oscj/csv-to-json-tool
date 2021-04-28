@@ -14,7 +14,7 @@ We must ensure that the CSV file that we are trying to convert to JSON is in the
 
 This is the general execution call for the script:
 
-``` python
+``` bash
 python3 csv_to_json.py <input_csv_path> <output_directory_path>
 ```
 
@@ -25,13 +25,13 @@ __Help Output__
 
 By executing the help command of the script:
 
-```python 
+```bash 
  python3 csv_to_json.py --help
 ``` 
 
 you will get the following:
 
-```python 
+```bash 
 usage: csv_to_json.py [-h] path outdir
 
 Convert a CSV file to JSON
